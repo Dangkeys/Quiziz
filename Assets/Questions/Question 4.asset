@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Did you say yes?
+  answers:
+  - NO!!!!
+  - Yep
+  - Whatever
+  - T_T
+  correctAnswerIndex: 1

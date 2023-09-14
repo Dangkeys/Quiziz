@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 179150f2773ea5142b4ef66804615644, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Can you love me?
+  question: If i luv u , will you love me
+  answers:
+  - mega no
+  - I just dont want to say yes
+  - That's a yes
+  - I dont know
+  correctAnswerIndex: 2

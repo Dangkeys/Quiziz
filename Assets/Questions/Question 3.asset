@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 179150f2773ea5142b4ef66804615644, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Will You marry me?
+  question: 'Wow, You really luv me, so can I be your GF '
+  answers:
+  - Yes, my darling
+  - No, Go to hell
+  - F*ck you
+  - I hate you and this game
+  correctAnswerIndex: 0

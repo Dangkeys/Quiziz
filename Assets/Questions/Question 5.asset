@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: Wow, Can we also have kids?
+  answers:
+  - Definitely, honey
+  - I want to die
+  - Meow Meow
+  - '*sigh'
+  correctAnswerIndex: 0
